@@ -1,3 +1,5 @@
+![Snipaste_2023-09-15_21-45-26.png](https://s2.loli.net/2023/09/15/MpzXhrO3KcZnYwI.png)
+
 ## Hi, there is LotusDB Labs 👋
 
 We have the following open-source projects:
