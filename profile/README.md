@@ -1,12 +1,11 @@
-## Hi there 👋
+## Hi, there is LotusDB Labs 👋
 
-<!--
+We have the following open-source projects:
 
-**Here are some ideas to get you started:**
+* [LotusDB](https://github.com/lotusdblabs/lotusdb), the most advanced key-value store written in Go, extremely fast, compatible with LSM tree and B+ tree, optimization of badger and bbolt.
+* [RoseDB](https://github.com/rosedblabs/rosedb), Lightweight, fast, and reliable key/value storage engine based on Bitcask.
+* [LotuSearch](https://github.com/lotusdblabs/lotusearch), Full text search engine powered by LotusDB.
+* [Wal](https://github.com/rosedblabs/wal), Write Ahead Log for LSM or bitcask storage.
+* [DiskHash](https://github.com/rosedblabs/diskhash), on-disk hash table(mainly for WAL).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[![Star History Chart](https://api.star-history.com/svg?repos=lotusdblabs/lotusdb,rosedblabs/rosedb&type=Date)](https://star-history.com/#lotusdblabs/lotusdb&rosedblabs/rosedb&Date)
